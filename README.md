@@ -1,1 +1,1 @@
-This is Ritchie Inman'n first public git project!
+This is Ritchie Inman's first public git project!
