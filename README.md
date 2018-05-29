@@ -1,0 +1,1 @@
+This is Ritchie Inman'n first public git project!
